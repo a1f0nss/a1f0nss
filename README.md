@@ -31,14 +31,6 @@
 [![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=/a1f0nss&show_icons=true&theme=radical)](https://github.com/a1f0nss)
 [![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=/a1f0nss&layout=compact&theme=radical)](https://github.com/a1f0nss)
 
-## 🚀 Proyectos Destacados
-
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| **[E-commerce WordPress](https://github.com/tu-usuario/proyecto1)** | Tienda online personalizada con plugins desarrollados a medida | WordPress, PHP, Sass, MySQL |
-| **[Sistema de Reservas](https://github.com/tu-usuario/proyecto2)** | Plataforma de gestión de citas con Symfony | Symfony, PHP, HTML5, CSS Grid |
-| **[API REST Java](https://github.com/tu-usuario/proyecto3)** | Sistema de gestión de inventarios para retail | Java, Spring Boot, MySQL |
-| **[Landing Page Moderna](https://github.com/tu-usuario/proyecto4)** | Diseño responsive con animaciones CSS | HTML5, Sass, Figma |
 
 ## 📚 Actualmente Aprendiendo
 
