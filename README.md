@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Alfonso, Desarrollador FullStack
 
-[![LinkedIn](www.linkedin.com/in/alfonso-salido-salas-7b3727260)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alfonso-salido-salas-7b3727260)
 
 **🌍 Mi Mundo Tech**  
 *"Transformando café en código desde 2014"* ☕🚀
