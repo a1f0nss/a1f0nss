@@ -29,17 +29,20 @@
 ## 📈 Estadísticas GitHub
 
 [![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=a1f0nss&show_icons=true&theme=radical)](https://github.com/a1f0nss)
+
+## 💻 Leguajes Más Usados
 [![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs?username=a1f0nss&layout=compact&theme=radical)](https://github.com/a1f0nss)
 
 ## 📚 Actualmente Aprendiendo
 
+- [ ] **Arquitectura Hexagonal** - Desarrollo de API
 - [ ] **Optimización Symfony** - Mejora de performance
 - [ ] **Patrones de Diseño Java** - Arquitecturas escalables
 - [ ] **Web Components** - Custom Elements con JavaScript
 
 ## 📫 ¿Cómo contactarme?
 
-- **Email profesional**: [alfonss90l@gmail.com](mailto:alfonss90@gmail.com)
+- **Email profesional**: [alfonss90@gmail.com](mailto:alfonss90@gmail.com)
 - **Sitio web**: [https://a1f0nss90.com](https://#)
 
 ## ⚡ Fun Fact
@@ -51,4 +54,4 @@ Cuando no estoy programando:
 - 🌱 Trabajo en el olivar tracinal
 - 🧗 Practico barranquismo, espeleología y senderismo
 
-![Visitor Count](https://komarev.com/ghpvc/?username=tu-usuario&color=blueviolet&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=a1f0nss&color=blueviolet&style=flat-square)
