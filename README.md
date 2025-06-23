@@ -29,7 +29,7 @@
 ## 📈 Estadísticas GitHub
 
 [![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=a1f0nss&show_icons=true&theme=radical)](https://github.com/a1f0nss)
-[![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=a1f0nss&layout=compact&theme=radical)](https://github.com/a1f0nss)
+[![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs?username=a1f0nss&layout=compact&theme=radical)](https://github.com/a1f0nss)
 
 ## 📚 Actualmente Aprendiendo
 
